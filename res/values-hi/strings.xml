@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">मेरी फोटो पहेली</string>
+    <string name="action_settings">Settings-Mine</string>
+    <!-- <string name="hello_world">हेलो विश्व</string> -->
+    <string name="hello_world">नमस्ते</string>    
+</resources>
